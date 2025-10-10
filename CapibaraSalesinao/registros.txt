@@ -1,0 +1,1 @@
+Jugador: 1234 | Puntaje: 30 | Nivel: facil
